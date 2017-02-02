@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1485894160 source:f:\aufgabeb\ameise\area.c
+	<stdio.h>
+	"area.h"
+
+1485176114 f:\aufgabeb\ameise\area.h
+
+1486033682 source:e:\aufgabeb\ameise\area.c
+	<stdio.h>
+	"area.h"
+
+1485176114 e:\aufgabeb\ameise\area.h
+
+1486038398 source:e:\aufgabeb\ameise\ameise.c
+	<stdio.h>
+	<stdlib.h>
+	"ameise.h"
+	"area.h"
+
+1485895564 e:\aufgabeb\ameise\ameise.h
+
